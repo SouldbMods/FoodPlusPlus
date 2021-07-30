@@ -4,11 +4,12 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="foodplusplus"
-version="1.0.0"
+version="pre"
 displayName="Food++"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Admin, MCreator"
+displayURL="https://github.com/SouldbMods/FoodPlusPlus"
+logoFile="logo.png"
+authors="Souldbminer"
 
 [[dependencies.foodplusplus]]
     modId="minecraft"
