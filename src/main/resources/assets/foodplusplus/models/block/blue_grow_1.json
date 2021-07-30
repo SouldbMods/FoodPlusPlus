@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foodplusplus:blocks/plant_blue_growth_3",
+    "particle": "foodplusplus:blocks/plant_blue_growth_3"
+  }
+}

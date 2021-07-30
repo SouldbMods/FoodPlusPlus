@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "foodplusplus:blocks/blueberryplant",
+    "particle": "foodplusplus:blocks/blueberryplant"
+  }
+}

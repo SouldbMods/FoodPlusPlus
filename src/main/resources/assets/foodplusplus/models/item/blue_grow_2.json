@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "foodplusplus:blocks/plant_blue_growth_1"
+  }
+}
