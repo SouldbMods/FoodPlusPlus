@@ -170,6 +170,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "blueberry_seeds"
+    },
+    {
+      "name": "FppDebug",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fpp_debug",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fpp",
+      "type": "command",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fpp"
     }
   ],
   "variable_elements": [],
@@ -203,6 +229,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "xyz.souldb.foodplusplus",
     "lockBaseModFiles": false
   },
