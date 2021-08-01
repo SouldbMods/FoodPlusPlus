@@ -46,5 +46,8 @@ public class FppDebugProcedure {
 															+ ((new ItemStack(BlueberrySeedsItem.block).getDisplayName().getString())))))))))))))))),
 					(true));
 		}
+		if (entity instanceof PlayerEntity && !entity.world.isRemote()) {
+			((PlayerEntity) entity).sendStatusMessage(new StringTextComponent("[Food++ Debug]- Game versions: 1.16.4/5, 1.17 coming soon"), (true));
+		}
 	}
 }
