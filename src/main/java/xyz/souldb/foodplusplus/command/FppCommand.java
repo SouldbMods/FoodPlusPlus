@@ -47,6 +47,7 @@ public class FppCommand {
 		{
 			Map<String, Object> $_dependencies = new HashMap<>();
 			$_dependencies.put("entity", entity);
+			$_dependencies.put("world", world);
 			FppDebugProcedure.executeProcedure($_dependencies);
 		}
 		return 0;
